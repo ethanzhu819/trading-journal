@@ -1,0 +1,24 @@
+# Database
+trading_journal.db
+
+# Uploaded images
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/
+
+# Prompt scratch files
+prompt.md
+new_prompt.md
+
+# Environment
+.env
+*.env
